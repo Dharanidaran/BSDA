@@ -1,0 +1,2223 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="ie6 ie" id="top"><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="ie7 ie" id="top"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="ie8 ie" id="top"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="ie9" id="top"><![endif<]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="top" lang="en">
+ <!--<![endif]-->
+ <head>
+  <script type="text/javascript">
+   var _sf_startpt=(new Date()).getTime()
+  </script>
+  <!-- START Healthline Ads -->
+  <script type="text/javascript">
+   var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node =document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+      })();
+      window.adSlots = [];
+      window.hlAdSlots = [];
+  </script>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Breast Cancer Forum: Stage IV and Metastatic Breast Cancer ONLY
+  </title>
+  <meta content="ItBNnjGbB1aZRDxHNYEy1FzKWEQBG2Q6KaiydvvTCewpTAE3UFflVmW2RpUimoHI27wIF6/h5wGtbnkJXJDccQ==" name="csrf-token"/>
+  <meta content="Breast Cancer Discussion Forums - Access the shared knowledge of thousands of people affected by breast cancer" name="description"/>
+  <meta content="breast cancer discussion forums, breast cancer, discussion forums, shared knowledge, knowledge exchange, community" name="keywords"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="IE=EmulateIE9" http-equiv="x-ua-compatible"/>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"70bb52b0cd","applicationID":"61214245","transactionName":"d1sLEBBYVQpURRxQVkZBCBdNRFEJRg==","queueTime":2,"applicationTime":706,"agent":""}
+  </script>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);
+  </script>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="https://d30r3ttr702hni.cloudfront.net/assets/layout-83bf593a0053b5074bfe66eb737bfa8afc733be9e35e216260149abc52fb6b3c.css" media="screen" rel="stylesheet"/>
+  <link href="https://d30r3ttr702hni.cloudfront.net/assets/print-467f4b9ca25980fdf1db08d7c954143062a4240c98a2254c602f11c4817f3a0f.css" media="print" rel="stylesheet"/>
+  <!--[if gte IE 7 ]><script src="https://d30r3ttr702hni.cloudfront.net/assets/respond.min-b4c684792a925c340e2314eb912ee58042dbf06f23a39781780f8b76f4ed0904.js"></script><![endif]-->
+  <meta content="authenticity_token" name="csrf-param"/>
+  <meta content="JayjHU35JrhGQkmKvX3Xtll5lVlXuS0SXnD0XQqKGiwuMO+0LDXEuLqwM1iqZmSq3g/FCvlDrinatj8ircnPsQ==" name="csrf-token"/>
+  <script src="https://www.google.com/recaptcha/api.js?hl=en">
+  </script>
+ </head>
+ <body class="">
+  <a name="top">
+  </a>
+  <div id="account-bar">
+   <div class="account-bar-nav">
+    <ul>
+     <li class="site-home">
+      <a href="http://www.breastcancer.org">
+       Main Site
+      </a>
+     </li>
+     <li class="my-account">
+      <a href="/member/register">
+       Create an Account
+      </a>
+     </li>
+     <li class="status">
+      <a href="/member/login">
+       Log In
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div id="Header_Main">
+   <a href="/" id="logo">
+    <span class="bco">
+     Breastcancer.org
+    </span>
+    <span class="bco-db">
+     Community
+    </span>
+   </a>
+   <ul id="nav_mobile">
+    <li class="menu">
+     <a href="#nav_main">
+      Menu
+     </a>
+    </li>
+   </ul>
+  </div>
+  <!-- /Header_Main -->
+  <div class="container">
+   <div id="Section_Controls">
+    <ul id="nav_main">
+     <li>
+      <a href="/member/register">
+       Create an Account
+      </a>
+     </li>
+     <li>
+      <a href="/">
+       All Topics
+      </a>
+     </li>
+     <li>
+      <a href="/topics/active">
+       Active Topics
+      </a>
+     </li>
+     <li>
+      <a href="/members">
+       Member List
+      </a>
+     </li>
+     <li>
+      <a href="/posts/search">
+       Search
+      </a>
+     </li>
+     <li>
+      <a href="/help">
+       Help
+      </a>
+     </li>
+     <li id="mobile-view">
+      <ul>
+       <li>
+        <div id="jump">
+         <form accept-charset="UTF-8" action="/forum/jump" method="post">
+          <input name="utf8" type="hidden" value="✓"/>
+          <input name="authenticity_token" type="hidden" value="jlkLfiUJARr5E7lkoe6h9PLoqq/jkV0PWwcyq2A1AGqFxUfXRMXjGgXhw7a29RLodZ76/E1r3jTfwfnUx3bV9w=="/>
+          <fieldset>
+           <select id="jump_to" name="jump_to">
+            <option selected="selected" value="">
+             Jump to a Forum:
+            </option>
+            <option value="category_18">
+             Welcome to Breastcancer.org
+            </option>
+            <option value="forum_131">
+             - Info &amp; Resources for New Patients &amp; Members - Please No Posts!
+            </option>
+            <option value="forum_135">
+             - Acknowledging and honoring our Community
+            </option>
+            <option value="category_2">
+             Not Diagnosed but Concerned
+            </option>
+            <option value="forum_83">
+             - Not Diagnosed but Worried
+            </option>
+            <option value="forum_62">
+             - Waiting for Test Results
+            </option>
+            <option value="forum_148">
+             - Benign Breast Conditions
+            </option>
+            <option value="forum_47">
+             - High Risk for Breast Cancer
+            </option>
+            <option value="category_3">
+             Tests, Treatments &amp; Side Effects
+            </option>
+            <option value="forum_5">
+             - Just Diagnosed
+            </option>
+            <option value="forum_147">
+             - Diagnosed and Waiting for Test Results
+            </option>
+            <option value="forum_91">
+             - Surgery - Before, During, and After
+            </option>
+            <option value="forum_44">
+             - Breast Reconstruction
+            </option>
+            <option value="forum_82">
+             - Living Without Reconstruction After a Mastectomy
+            </option>
+            <option value="forum_64">
+             - Lymphedema
+            </option>
+            <option value="forum_136">
+             - Pain
+            </option>
+            <option value="forum_69">
+             - Chemotherapy - Before, During, and After
+            </option>
+            <option value="forum_70">
+             - Radiation Therapy - Before, During and After
+            </option>
+            <option value="forum_78">
+             - Hormonal Therapy - Before, During and After
+            </option>
+            <option value="forum_6">
+             - Managing Side Effects of Breast Cancer and Its Treatment
+            </option>
+            <option value="forum_79">
+             - Complementary and Holistic Medicine and Treatment
+            </option>
+            <option value="forum_121">
+             - Alternative Medicine
+            </option>
+            <option value="category_4">
+             Connecting With Others Who Have a Similar Diagnosis
+            </option>
+            <option value="forum_68">
+             - DCIS (Ductal Carcinoma In Situ)
+            </option>
+            <option value="forum_111">
+             - DCIS plus HER2-positive Microinvasion
+            </option>
+            <option value="forum_95">
+             - LCIS (Lobular Carcinoma In Situ)
+            </option>
+            <option value="forum_96">
+             - IDC (Invasive Ductal Carcinoma)
+            </option>
+            <option value="forum_81">
+             - IBC (Inflammatory Breast Cancer)
+            </option>
+            <option value="forum_71">
+             - ILC (Invasive Lobular Carcinoma)
+            </option>
+            <option value="forum_137">
+             - Less Common Types of Breast Cancer
+            </option>
+            <option value="forum_132">
+             - Mixed Type Breast Cancer
+            </option>
+            <option value="forum_142">
+             - Breast Cancer with Another Diagnosis or Comorbidity
+            </option>
+            <option value="forum_108">
+             - Stage I Breast Cancer
+            </option>
+            <option value="forum_145">
+             - Stage II Breast Cancer
+            </option>
+            <option value="forum_67">
+             - Stage III Breast Cancer
+            </option>
+            <option value="forum_8">
+             - Stage IV and Metastatic Breast Cancer ONLY
+            </option>
+            <option value="forum_105">
+             - Not Diagnosed With a Recurrence or Metastases but Concerned
+            </option>
+            <option value="forum_106">
+             - Just Diagnosed With a Recurrence or Metastasis
+            </option>
+            <option value="forum_88">
+             - Second or Third Breast Cancer
+            </option>
+            <option value="forum_80">
+             - HER2+ (Positive) Breast Cancer
+            </option>
+            <option value="forum_72">
+             - Triple-Negative Breast Cancer
+            </option>
+            <option value="forum_112">
+             - Positive Genetic Test Results
+            </option>
+            <option value="forum_51">
+             - Male Breast Cancer
+            </option>
+            <option value="forum_77">
+             - Palliative Therapy/Hospice Care
+            </option>
+            <option value="category_7">
+             Day-to-Day Matters
+            </option>
+            <option value="forum_157">
+             - Family and Family Planning Matters
+            </option>
+            <option value="forum_150">
+             - Sex &amp; Relationship Matters
+            </option>
+            <option value="forum_152">
+             - Share Your Experiences Of Life After A Breast Cancer Diagnosis
+            </option>
+            <option value="forum_156">
+             - Your Furry Friends
+            </option>
+            <option value="forum_120">
+             - Bone Health and Bone Loss
+            </option>
+            <option value="forum_133">
+             - Coping with Holidays, Special Days and Anniversaries
+            </option>
+            <option value="forum_113">
+             - Employment, Insurance, and Other Financial Issues
+            </option>
+            <option value="forum_102">
+             - Emotional Crises: Anxiety, Depression &amp; Other Emotional Effects
+            </option>
+            <option value="forum_58">
+             - Fitness and Getting Back in Shape
+            </option>
+            <option value="forum_86">
+             - Healthy Recipes for Everyday Living
+            </option>
+            <option value="forum_31">
+             - Humor and Games
+            </option>
+            <option value="forum_26">
+             - Recommend Your Resources
+            </option>
+            <option value="forum_149">
+             - BCO Free-Cycle: Give or Trade Items Related to Breast Cancer
+            </option>
+            <option value="forum_73">
+             - Clinical Trials, Research News, Podcasts, Study Results
+            </option>
+            <option value="category_6">
+             Moving On &amp; Finding Inspiration After Breast Cancer
+            </option>
+            <option value="forum_7">
+             - Moving Beyond Cancer
+            </option>
+            <option value="forum_84">
+             - Growing Our Friendships After Treatment
+            </option>
+            <option value="forum_23">
+             - Biographies and Inspiring Stories
+            </option>
+            <option value="forum_38">
+             - Prayers and Spiritual Inspiration
+            </option>
+            <option value="category_5">
+             Community Connections
+            </option>
+            <option value="forum_16">
+             - For Caregivers, Family, Friends and Supporters
+            </option>
+            <option value="forum_144">
+             -  For Family &amp; Caregivers of Loved Ones With a STAGE IV Diagnosis
+            </option>
+            <option value="forum_153">
+             - Member Matchup &amp; Local Support Groups
+            </option>
+            <option value="forum_138">
+             - Australians and New Zealanders Affected by Breast Cancer
+            </option>
+            <option value="forum_55">
+             - Canadians Affected by Breast Cancer
+            </option>
+            <option value="forum_139">
+             - International, Non-English Speakers With Breast Cancer
+            </option>
+            <option value="forum_98">
+             - African Americans With Breast Cancer
+            </option>
+            <option value="forum_141">
+             - Latinas/Hispanics With Breast Cancer
+            </option>
+            <option value="forum_99">
+             - Singles With Breast Cancer
+            </option>
+            <option value="forum_76">
+             - LGBT With Breast Cancer
+            </option>
+            <option value="forum_27">
+             - Young With Breast Cancer
+            </option>
+            <option value="forum_109">
+             - "Middle Age" 40-60(ish) Years Old With Breast Cancer
+            </option>
+            <option value="forum_104">
+             - Older Than 60 Years Old With Breast Cancer
+            </option>
+            <option value="forum_85">
+             - High Risk of Recurrence or Second Breast Cancer
+            </option>
+            <option value="forum_56">
+             - Commemorating Loved Ones
+            </option>
+            <option value="forum_34">
+             - Get Togethers
+            </option>
+            <option value="forum_63">
+             - Walks, Runs and Fundraising Events for Breastcancer.org
+            </option>
+            <option value="category_1">
+             Site News and Announcements
+            </option>
+            <option value="forum_161">
+             - Survey, Interview and Participant Requests: Need your Help!
+            </option>
+            <option value="forum_93">
+             - Comments, Suggestions, Feature Requests
+            </option>
+            <option value="forum_90">
+             - Mod Announcements, Breastcancer.org News, Blog Entries, Podcasts
+            </option>
+            <option value="category_14">
+             Advocacy and Fund-Raising
+            </option>
+            <option value="forum_114">
+             - Fundraising Opportunities for Breastcancer.org
+            </option>
+            <option value="forum_110">
+             - Advocacy
+            </option>
+            <option value="forum_100">
+             - I've Donated to Breastcancer.org in honor of....
+            </option>
+           </select>
+           <input class="utility" name="commit" type="submit" value="Go"/>
+          </fieldset>
+         </form>
+        </div>
+       </li>
+       <li>
+        <a class="abbrvs" href="https://community.breastcancer.org/forum/131/topic/773727" title="Help with Abbreviations">
+         Help with Abbreviations
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- /nav_main -->
+    <div class="intro">
+     <h3>
+      We are
+      <span>
+       202,226 members
+      </span>
+      in
+      <span>
+       81 forums
+      </span>
+      discussing
+      <span>
+       147,226 topics
+      </span>
+      .
+     </h3>
+     <div id="jump">
+      <form accept-charset="UTF-8" action="/forum/jump" method="post">
+       <input name="utf8" type="hidden" value="✓"/>
+       <input name="authenticity_token" type="hidden" value="ly4w8aku9dspOupwnDr2pdSmH5dRO/qNYdesU1ZzGDucsnxYyOIX29XIkKKLIUW5U9BPxP/BebblEWcs8TDNpg=="/>
+       <fieldset>
+        <select id="jump_to" name="jump_to">
+         <option selected="selected" value="">
+          Jump to a Forum:
+         </option>
+         <option value="category_18">
+          Welcome to Breastcancer.org
+         </option>
+         <option value="forum_131">
+          - Info &amp; Resources for New Patients &amp; Members - Please No Posts!
+         </option>
+         <option value="forum_135">
+          - Acknowledging and honoring our Community
+         </option>
+         <option value="category_2">
+          Not Diagnosed but Concerned
+         </option>
+         <option value="forum_83">
+          - Not Diagnosed but Worried
+         </option>
+         <option value="forum_62">
+          - Waiting for Test Results
+         </option>
+         <option value="forum_148">
+          - Benign Breast Conditions
+         </option>
+         <option value="forum_47">
+          - High Risk for Breast Cancer
+         </option>
+         <option value="category_3">
+          Tests, Treatments &amp; Side Effects
+         </option>
+         <option value="forum_5">
+          - Just Diagnosed
+         </option>
+         <option value="forum_147">
+          - Diagnosed and Waiting for Test Results
+         </option>
+         <option value="forum_91">
+          - Surgery - Before, During, and After
+         </option>
+         <option value="forum_44">
+          - Breast Reconstruction
+         </option>
+         <option value="forum_82">
+          - Living Without Reconstruction After a Mastectomy
+         </option>
+         <option value="forum_64">
+          - Lymphedema
+         </option>
+         <option value="forum_136">
+          - Pain
+         </option>
+         <option value="forum_69">
+          - Chemotherapy - Before, During, and After
+         </option>
+         <option value="forum_70">
+          - Radiation Therapy - Before, During and After
+         </option>
+         <option value="forum_78">
+          - Hormonal Therapy - Before, During and After
+         </option>
+         <option value="forum_6">
+          - Managing Side Effects of Breast Cancer and Its Treatment
+         </option>
+         <option value="forum_79">
+          - Complementary and Holistic Medicine and Treatment
+         </option>
+         <option value="forum_121">
+          - Alternative Medicine
+         </option>
+         <option value="category_4">
+          Connecting With Others Who Have a Similar Diagnosis
+         </option>
+         <option value="forum_68">
+          - DCIS (Ductal Carcinoma In Situ)
+         </option>
+         <option value="forum_111">
+          - DCIS plus HER2-positive Microinvasion
+         </option>
+         <option value="forum_95">
+          - LCIS (Lobular Carcinoma In Situ)
+         </option>
+         <option value="forum_96">
+          - IDC (Invasive Ductal Carcinoma)
+         </option>
+         <option value="forum_81">
+          - IBC (Inflammatory Breast Cancer)
+         </option>
+         <option value="forum_71">
+          - ILC (Invasive Lobular Carcinoma)
+         </option>
+         <option value="forum_137">
+          - Less Common Types of Breast Cancer
+         </option>
+         <option value="forum_132">
+          - Mixed Type Breast Cancer
+         </option>
+         <option value="forum_142">
+          - Breast Cancer with Another Diagnosis or Comorbidity
+         </option>
+         <option value="forum_108">
+          - Stage I Breast Cancer
+         </option>
+         <option value="forum_145">
+          - Stage II Breast Cancer
+         </option>
+         <option value="forum_67">
+          - Stage III Breast Cancer
+         </option>
+         <option value="forum_8">
+          - Stage IV and Metastatic Breast Cancer ONLY
+         </option>
+         <option value="forum_105">
+          - Not Diagnosed With a Recurrence or Metastases but Concerned
+         </option>
+         <option value="forum_106">
+          - Just Diagnosed With a Recurrence or Metastasis
+         </option>
+         <option value="forum_88">
+          - Second or Third Breast Cancer
+         </option>
+         <option value="forum_80">
+          - HER2+ (Positive) Breast Cancer
+         </option>
+         <option value="forum_72">
+          - Triple-Negative Breast Cancer
+         </option>
+         <option value="forum_112">
+          - Positive Genetic Test Results
+         </option>
+         <option value="forum_51">
+          - Male Breast Cancer
+         </option>
+         <option value="forum_77">
+          - Palliative Therapy/Hospice Care
+         </option>
+         <option value="category_7">
+          Day-to-Day Matters
+         </option>
+         <option value="forum_157">
+          - Family and Family Planning Matters
+         </option>
+         <option value="forum_150">
+          - Sex &amp; Relationship Matters
+         </option>
+         <option value="forum_152">
+          - Share Your Experiences Of Life After A Breast Cancer Diagnosis
+         </option>
+         <option value="forum_156">
+          - Your Furry Friends
+         </option>
+         <option value="forum_120">
+          - Bone Health and Bone Loss
+         </option>
+         <option value="forum_133">
+          - Coping with Holidays, Special Days and Anniversaries
+         </option>
+         <option value="forum_113">
+          - Employment, Insurance, and Other Financial Issues
+         </option>
+         <option value="forum_102">
+          - Emotional Crises: Anxiety, Depression &amp; Other Emotional Effects
+         </option>
+         <option value="forum_58">
+          - Fitness and Getting Back in Shape
+         </option>
+         <option value="forum_86">
+          - Healthy Recipes for Everyday Living
+         </option>
+         <option value="forum_31">
+          - Humor and Games
+         </option>
+         <option value="forum_26">
+          - Recommend Your Resources
+         </option>
+         <option value="forum_149">
+          - BCO Free-Cycle: Give or Trade Items Related to Breast Cancer
+         </option>
+         <option value="forum_73">
+          - Clinical Trials, Research News, Podcasts, Study Results
+         </option>
+         <option value="category_6">
+          Moving On &amp; Finding Inspiration After Breast Cancer
+         </option>
+         <option value="forum_7">
+          - Moving Beyond Cancer
+         </option>
+         <option value="forum_84">
+          - Growing Our Friendships After Treatment
+         </option>
+         <option value="forum_23">
+          - Biographies and Inspiring Stories
+         </option>
+         <option value="forum_38">
+          - Prayers and Spiritual Inspiration
+         </option>
+         <option value="category_5">
+          Community Connections
+         </option>
+         <option value="forum_16">
+          - For Caregivers, Family, Friends and Supporters
+         </option>
+         <option value="forum_144">
+          -  For Family &amp; Caregivers of Loved Ones With a STAGE IV Diagnosis
+         </option>
+         <option value="forum_153">
+          - Member Matchup &amp; Local Support Groups
+         </option>
+         <option value="forum_138">
+          - Australians and New Zealanders Affected by Breast Cancer
+         </option>
+         <option value="forum_55">
+          - Canadians Affected by Breast Cancer
+         </option>
+         <option value="forum_139">
+          - International, Non-English Speakers With Breast Cancer
+         </option>
+         <option value="forum_98">
+          - African Americans With Breast Cancer
+         </option>
+         <option value="forum_141">
+          - Latinas/Hispanics With Breast Cancer
+         </option>
+         <option value="forum_99">
+          - Singles With Breast Cancer
+         </option>
+         <option value="forum_76">
+          - LGBT With Breast Cancer
+         </option>
+         <option value="forum_27">
+          - Young With Breast Cancer
+         </option>
+         <option value="forum_109">
+          - "Middle Age" 40-60(ish) Years Old With Breast Cancer
+         </option>
+         <option value="forum_104">
+          - Older Than 60 Years Old With Breast Cancer
+         </option>
+         <option value="forum_85">
+          - High Risk of Recurrence or Second Breast Cancer
+         </option>
+         <option value="forum_56">
+          - Commemorating Loved Ones
+         </option>
+         <option value="forum_34">
+          - Get Togethers
+         </option>
+         <option value="forum_63">
+          - Walks, Runs and Fundraising Events for Breastcancer.org
+         </option>
+         <option value="category_1">
+          Site News and Announcements
+         </option>
+         <option value="forum_161">
+          - Survey, Interview and Participant Requests: Need your Help!
+         </option>
+         <option value="forum_93">
+          - Comments, Suggestions, Feature Requests
+         </option>
+         <option value="forum_90">
+          - Mod Announcements, Breastcancer.org News, Blog Entries, Podcasts
+         </option>
+         <option value="category_14">
+          Advocacy and Fund-Raising
+         </option>
+         <option value="forum_114">
+          - Fundraising Opportunities for Breastcancer.org
+         </option>
+         <option value="forum_110">
+          - Advocacy
+         </option>
+         <option value="forum_100">
+          - I've Donated to Breastcancer.org in honor of....
+         </option>
+        </select>
+        <input class="utility" name="commit" type="submit" value="Go"/>
+       </fieldset>
+      </form>
+     </div>
+     <a class="abbrvs" href="https://community.breastcancer.org/forum/131/topic/773727" title="Help with Abbreviations">
+      Help with Abbreviations
+     </a>
+     <div class="banner skyscraper hl-ad-wsl" id="gpt-ad-wsl">
+     </div>
+    </div>
+    <!-- /intro -->
+   </div>
+   <div id="section-content">
+    <div class="buttons">
+     <a class="donate" href="http://support.breastcancer.org/site/Donation2?df_id=5024&amp;mfc_pref=T&amp;5024.donation=form1&amp;utm_source=BCO&amp;utm_medium=commheader&amp;utm_campaign=generaldonate">
+      <span>
+       Donate
+      </span>
+     </a>
+     <a class="language-switch" href="https://comunidad.breastcancer.org">
+      <span>
+       Comunidad en español
+      </span>
+     </a>
+    </div>
+    <div class="banner ad-header hl-ad-dlb" id="gpt-ad-dlb1">
+    </div>
+    <p id="crumbs">
+     <a href="/">
+      All Topics
+     </a>
+     → 
+      Forum: Stage IV and Metastatic Breast Cancer ONLY
+    </p>
+    <!-- /crumbs -->
+    <h1>
+     Forum: Stage IV and Metastatic Breast Cancer ONLY
+    </h1>
+    <p>
+     <p>
+      A place for those managing the ups &amp; downs of a Stage IV/metastatic breast cancer diagnosis.
+      <em>
+       Please respect that this forum is for Stage IV members only.
+      </em>
+      There is a separate forum For Family and Caregivers of People with a STAGE IV Diagnosis.
+      <span>
+      </span>
+     </p>
+    </p>
+    <div class="group topic-text">
+     <h2>
+      21,625
+    Topics
+     </h2>
+     <a class="create" href="/forum/8/topics/new" title="Sign in to start a new Topic">
+      Sign in to start a new Topic
+     </a>
+    </div>
+    <div class="paging_controls">
+     <div class="paging">
+      <div class="pagination">
+       <span class="previous_page disabled">
+        Previous
+       </span>
+       <em class="current">
+        1
+       </em>
+       <a href="/forum/8?page=2" rel="next">
+        2
+       </a>
+       <a href="/forum/8?page=3">
+        3
+       </a>
+       <a href="/forum/8?page=4">
+        4
+       </a>
+       <a href="/forum/8?page=5">
+        5
+       </a>
+       <span class="gap">
+        …
+       </span>
+       <a href="/forum/8?page=721">
+        721
+       </a>
+       <a class="next_page" href="/forum/8?page=2" rel="next">
+        Next
+       </a>
+       <a href="/forum/8?page=721">
+        Last
+       </a>
+      </div>
+     </div>
+     <p>
+      Page
+      <strong>
+       1
+      </strong>
+      of 721 (21,625 results)
+     </p>
+    </div>
+    <ul class="rowgroup topic-list">
+     <li class=" ">
+      <h3>
+       <a class="announcement" href="/forum/8/topics/862697" title="This is a Breastcancer.org Community Announcement">
+        Interview opp for HER2-negative, Stage III or IV, $100 comp
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         1
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         34
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Feb 21, 2018 11:18PM
+      </p>
+      <p>
+       Latest post:
+       Feb 21, 2018 11:18PM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="announcement" href="/forum/8/topics/861504" title="This is a Breastcancer.org Community Announcement">
+        Clinical trial, endocrine tx plus entinostat or placebo, HR+
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         1
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         96
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Jan 10, 2018 09:58PM
+      </p>
+      <p>
+       Latest post:
+       Jan 10, 2018 09:58PM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="announcement" href="/forum/8/topics/785448" title="This is a Breastcancer.org Community Announcement">
+        Important Stage IV Topics and Links for Stage IV Newbies
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         1
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         13,205
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Apr  8, 2012 01:15AM
+      </p>
+      <p>
+       Latest post:
+       Apr  8, 2012 01:15AM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/831507" title="This Topic is important, and will remain at the top of the list">
+        Request your FREE MBC Guide (Over 2,500 Copies Sent!)
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         93
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         3,612
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/138511/profile">
+        Bestbird
+       </a>
+       on
+     May 16, 2015 06:24AM
+      </p>
+      <p>
+       Latest post:
+       Mar  4, 2018 08:43AM
+       <span>
+        by
+        <a href="/member/138511/profile">
+         Bestbird
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/845638" title="This Topic is important, and will remain at the top of the list">
+        How Many Are We?
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         482
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         20,557
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/228127/profile">
+        zarovka
+       </a>
+       on
+     Jul  4, 2016 08:43AM
+      </p>
+      <p>
+       Latest post:
+       Mar  4, 2018 03:03AM
+       <span>
+        by
+        <a href="/member/218608/profile">
+         ann1999
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/783594" title="This Topic is important, and will remain at the top of the list">
+        If you are not Stage IV but have questions, you may post here
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         4,329
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         274,427
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/104317/profile">
+        chrissyb
+       </a>
+       on
+     Mar  4, 2012 06:52AM
+      </p>
+      <p>
+       Latest post:
+       Feb 27, 2018 10:09AM
+       <span>
+        by
+        <a href="/member/254226/profile">
+         siddhivinayak
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/858469" title="This Topic is important, and will remain at the top of the list">
+        Would like your feedback: Patient - Doctor Relationships
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         35
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         822
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Sep  6, 2017 11:12PM
+      </p>
+      <p>
+       Latest post:
+       Feb 26, 2018 06:54PM
+       <span>
+        by
+        <a href="/member/251601/profile">
+         Ciaci
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/856331" title="This Topic is important, and will remain at the top of the list">
+        Mets Members: Could you share your insight?
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         41
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         1,380
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Jun 23, 2017 12:27AM
+      </p>
+      <p>
+       Latest post:
+       Feb 25, 2018 10:08PM
+       <span>
+        by
+        <a href="/member/100949/profile">
+         mimi791
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/860793" title="This Topic is important, and will remain at the top of the list">
+        For those on Ibrance, PFIZER Oncology Together can provide help
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         11
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         254
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Dec 12, 2017 12:02AM
+      </p>
+      <p>
+       Latest post:
+       Feb 25, 2018 03:48AM
+       <span>
+        by
+        <a href="/member/211830/profile">
+         Raine-Wells
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/862123" title="This Topic is important, and will remain at the top of the list">
+        Participate in a 3 day community (total 60 mins), $200 to BCO!
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         2
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         42
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Feb  1, 2018 02:19AM
+      </p>
+      <p>
+       Latest post:
+       Feb 21, 2018 11:32PM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/848712" title="This Topic is important, and will remain at the top of the list">
+        Need Your Tips for Members Newly Diagnosed Stage IV
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         80
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         3,577
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Oct  5, 2016 11:52PM
+      </p>
+      <p>
+       Latest post:
+       Feb 21, 2018 08:54PM
+       <span>
+        by
+        <a href="/member/100949/profile">
+         mimi791
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/862666" title="This Topic is important, and will remain at the top of the list">
+        3 Interviews, $500 compensation (Boston preferred)
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         1
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         35
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Feb 21, 2018 03:22AM
+      </p>
+      <p>
+       Latest post:
+       Feb 21, 2018 03:22AM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/862194" title="This Topic is important, and will remain at the top of the list">
+        MBC, and live near NYC? Be featured in a video?!
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         2
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         29
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Feb  3, 2018 12:48AM
+      </p>
+      <p>
+       Latest post:
+       Feb 17, 2018 02:33AM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/831578" title="This Topic is important, and will remain at the top of the list">
+        Would you share your Stage IV story with us?
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         352
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         37,800
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     May 18, 2015 05:44PM
+      </p>
+      <p>
+       Latest post:
+       Feb 15, 2018 04:21PM
+       <span>
+        by
+        <a href="/member/268554/profile">
+         Bhavana_7
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/860973" title="This Topic is important, and will remain at the top of the list">
+        Podcast on HER2-positive breast cancer recurrence
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         2
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         90
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Dec 19, 2017 01:39AM
+      </p>
+      <p>
+       Latest post:
+       Feb 10, 2018 10:46AM
+       <span>
+        by
+        <a href="/member/268621/profile">
+         temi
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/853110" title="This Topic is important, and will remain at the top of the list">
+        We are looking for bloggers
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         21
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         812
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Mar  2, 2017 12:21AM
+      </p>
+      <p>
+       Latest post:
+       Dec 27, 2017 06:38AM
+       <span>
+        by
+        <a href="/member/263307/profile">
+         wastate50
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/856108" title="This Topic is important, and will remain at the top of the list">
+        Practical tips for day-to-day matters- please share with us
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         43
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         1,034
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Jun 13, 2017 11:25PM
+      </p>
+      <p>
+       Latest post:
+       Oct 29, 2017 08:08PM
+       <span>
+        by
+        <a href="/member/250299/profile">
+         Bigbhome
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/859462" title="This Topic is important, and will remain at the top of the list">
+        Breastcancer.org Blog: Metastatic Breast Cancer
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         8
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         176
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Oct 17, 2017 11:43PM
+      </p>
+      <p>
+       Latest post:
+       Oct 17, 2017 11:52PM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/853765" title="This Topic is important, and will remain at the top of the list">
+        Ways to lower the cost of metastatic breast cancer
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         7
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         441
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Mar 28, 2017 01:50AM
+      </p>
+      <p>
+       Latest post:
+       Oct  7, 2017 06:49PM
+       <span>
+        by
+        <a href="/member/157271/profile">
+         HLB
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/835741" title="This Topic is important, and will remain at the top of the list">
+        ​Receive Articles Specific to Your Metastatic Diagnosis
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         16
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         1,002
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Oct 14, 2015 02:10AM
+      </p>
+      <p>
+       Latest post:
+       Sep 16, 2017 06:19AM
+       <span>
+        by
+        <a href="/member/259720/profile">
+         notagain1965
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/857372" title="This Topic is important, and will remain at the top of the list">
+        Looking for Your Feedback on new Metastatic Content
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         6
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         199
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Jul 27, 2017 11:03PM
+      </p>
+      <p>
+       Latest post:
+       Aug 16, 2017 12:09AM
+       <span>
+        by
+        <a href="/member/56097/profile">
+         Moderators
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/835239" title="This Topic is important, and will remain at the top of the list">
+        Metastatic Breast Cancer Trial Search
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         35
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         3,393
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/56097/profile">
+        Moderators
+       </a>
+       on
+     Sep 24, 2015 08:30PM
+      </p>
+      <p>
+       Latest post:
+       Oct  4, 2016 02:31AM
+       <span>
+        by
+        <a href="/member/219598/profile">
+         artistatheart
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a class="sticky" href="/forum/8/topics/709156" title="This Topic is important, and will remain at the top of the list">
+        Our "Central Address Book"
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         78
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         12,300
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/11047/profile">
+        nowheregirl
+       </a>
+       on
+     Jul 16, 2008 11:01PM
+      </p>
+      <p>
+       Latest post:
+       Jul  3, 2016 06:12AM
+       <span>
+        by
+        <a href="/member/228127/profile">
+         zarovka
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a href="/forum/8/topics/861757" title="View this Topic and its replies">
+        Oligometastatic Mets
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         14
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         383
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/212309/profile">
+        Meme117
+       </a>
+       on
+     Jan 19, 2018 09:14AM
+      </p>
+      <p>
+       Latest post:
+      16 minutes ago
+       <span>
+        by
+        <a href="/member/113715/profile">
+         Heidihill
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a href="/forum/8/topics/826737" title="View this Topic and its replies">
+        HERCEPTIN and/or PERJETA Threads
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         1,825
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         49,794
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/206813/profile">
+        Teakie88
+       </a>
+       on
+     Dec  4, 2014 03:43PM
+      </p>
+      <p>
+       Latest post:
+      39 minutes ago
+       <span>
+        by
+        <a href="/member/126745/profile">
+         jackboo09
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a href="/forum/8/topics/777599" title="View this Topic and its replies">
+        Brain Mets Sisters
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         5,946
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         259,905
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/122310/profile">
+        K-Lo
+       </a>
+       on
+     Nov  5, 2011 10:51PM
+      </p>
+      <p>
+       Latest post:
+      56 minutes ago
+       <span>
+        by
+        <a href="/member/237846/profile">
+         Lita57
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a href="/forum/8/topics/858394" title="View this Topic and its replies">
+        Lita57
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         1,031
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         54,446
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/96786/profile">
+        Kandy
+       </a>
+       on
+     Sep  3, 2017 12:20AM
+      </p>
+      <p>
+       Latest post:
+      An hour ago
+       <span>
+        by
+        <a href="/member/237846/profile">
+         Lita57
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a href="/forum/8/topics/809420" title="View this Topic and its replies">
+        How are people with liver mets doing?
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         7,484
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         205,998
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/110925/profile">
+        blondie1
+       </a>
+       on
+     Aug 17, 2013 04:32AM
+      </p>
+      <p>
+       Latest post:
+      2 hours ago
+       <span>
+        by
+        <a href="/member/219023/profile">
+         bstein
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" ">
+      <h3>
+       <a href="/forum/8/topics/830627" title="View this Topic and its replies">
+        Stage IV NED crew : let's support each other
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         631
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         24,223
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/170136/profile">
+        Boo123
+       </a>
+       on
+     Apr 22, 2015 03:04AM
+      </p>
+      <p>
+       Latest post:
+      3 hours ago
+       <span>
+        by
+        <a href="/member/219023/profile">
+         bstein
+        </a>
+       </span>
+      </p>
+     </li>
+     <li class=" secondary">
+      <h3>
+       <a href="/forum/8/topics/856706" title="View this Topic and its replies">
+        My Husband, My Life, My Love, My Family, My Cancer
+       </a>
+      </h3>
+      <p class="count_wrap">
+       <span class="count count-posts">
+        <strong>
+         2,966
+        </strong>
+        Posts
+       </span>
+       <span class="count count-views">
+        <strong>
+         28,830
+        </strong>
+        Views
+       </span>
+      </p>
+      <p>
+       Created by:
+       <a href="/member/246862/profile">
+        Micmel
+       </a>
+       on
+     Jul  7, 2017 06:08AM
+      </p>
+      <p>
+       Latest post:
+      3 hours ago
+       <span>
+        by
+        <a href="/member/252021/profile">
+         runor
+        </a>
+       </span>
+      </p>
+     </li>
+    </ul>
+    <div class="paging_controls">
+     <div class="paging">
+      <div class="pagination">
+       <span class="previous_page disabled">
+        Previous
+       </span>
+       <em class="current">
+        1
+       </em>
+       <a href="/forum/8?page=2" rel="next">
+        2
+       </a>
+       <a href="/forum/8?page=3">
+        3
+       </a>
+       <a href="/forum/8?page=4">
+        4
+       </a>
+       <a href="/forum/8?page=5">
+        5
+       </a>
+       <span class="gap">
+        …
+       </span>
+       <a href="/forum/8?page=721">
+        721
+       </a>
+       <a class="next_page" href="/forum/8?page=2" rel="next">
+        Next
+       </a>
+       <a href="/forum/8?page=721">
+        Last
+       </a>
+      </div>
+     </div>
+     <p>
+      Page
+      <strong>
+       1
+      </strong>
+      of 721 (21,625 results)
+     </p>
+    </div>
+   </div>
+   <!-- /section-content -->
+   <div class="banner-wrap" id="horizontal-banner">
+    <p>
+    </p>
+   </div>
+   <div class="banner ad-footer hl-ad-mmr" id="gpt-ad-mmr1">
+   </div>
+  </div>
+  <div id="Footer_Main">
+   <ul>
+    <li>
+     <a href="/member/register">
+      Create an Account
+     </a>
+    </li>
+    <li>
+     <a href="/members">
+      Member List
+     </a>
+    </li>
+    <li>
+     <a href="/help">
+      Help
+     </a>
+    </li>
+    <li>
+     <a href="/help/rules">
+      Community Guidelines
+     </a>
+    </li>
+    <li>
+     <a href="/">
+      All Topics
+     </a>
+    </li>
+    <li>
+     <a href="/topics/active">
+      Active Topics
+     </a>
+    </li>
+    <li>
+     <a href="/posts/search">
+      Search
+     </a>
+    </li>
+   </ul>
+   <p>
+    <a href="https://comunidad.breastcancer.org">
+     Comunidad en español
+    </a>
+   </p>
+   <p>
+    © 2018
+    <a href="http://www.breastcancer.org">
+     Breastcancer.org
+    </a>
+    .
+    All rights reserved.
+    <span class="about-footer">
+     Breastcancer.org is a non-profit organization dedicated to providing information and community to those touched by this disease.
+     <a href="http://www.breastcancer.org/about_us/bco_commitment/privacy_statement">
+      Read our Privacy Statement
+     </a>
+     .
+    </span>
+    <span>
+     <a href="http://www.breastcancer.org/about_us/bco_commitment/legal_terms">
+      Terms of Use
+     </a>
+    </span>
+   </p>
+  </div>
+  <!-- /Footer_Main -->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga("create", "UA-294252-1", "auto");
+  ga("send", "pageview");
+  </script>
+  <script type="text/javascript">
+   submittingText = "Submitting";
+  </script>
+  <script src="https://d30r3ttr702hni.cloudfront.net/assets/application-7e3ad79448eafa55fb724d6189fd8707a8009c511543fc5b81230601b2ad6daf.js">
+  </script>
+  <script src="https://d30r3ttr702hni.cloudfront.net/assets/redactor-8/redactor.min-3cfeb8f8cf9fee6a2a9e8f9aee93c7683591fe745b7836891fc0ab734cf405fc.js">
+  </script>
+  <script src="https://d30r3ttr702hni.cloudfront.net/assets/redactor-8/plugins/redactor-emoticons-879525f16202ce85745cf9edef0ca9296ed93795b1b452bca96c80b3d6725e74.js">
+  </script>
+  <link href="https://d30r3ttr702hni.cloudfront.net/assets/redactor-8/redactor-eb7260c8b13f67adf0b690c4bbdedcca9ce4d867ecafcfdba35332332089c59a.css" media="screen" rel="stylesheet"/>
+  <script type="text/javascript">
+   $(document).ready(function() {
+      new BCO.Components.RichText({
+        el: $("textarea"),
+        lang: 'en',
+        emoticons: [{"name":"Happy","src":"/images/emoticons/1.png","shortcode":":)"},{"name":"SillyHeart","src":"/images/emoticons/2.png","shortcode":"\u003c3:p"},{"name":"Smile","src":"/images/emoticons/3.png","shortcode":":D"},{"name":"Sad","src":"/images/emoticons/6.png","shortcode":":'("},{"name":"Devil","src":"/images/emoticons/7.png","shortcode":"\u003e:("},{"name":"Singing","src":"/images/emoticons/8.png","shortcode":":S"},{"name":"Scared","src":"/images/emoticons/9.png","shortcode":":C"},{"name":"Headphones","src":"/images/emoticons/11.png","shortcode":"[:)"},{"name":"Nerdy","src":"/images/emoticons/12.png","shortcode":"B')"},{"name":"Bawling","src":"/images/emoticons/13.png","shortcode":":'O"},{"name":"Snooze","src":"/images/emoticons/14.png","shortcode":":'Z"},{"name":"Sick","src":"/images/emoticons/15.png","shortcode":":X"},{"name":"Shocked","src":"/images/emoticons/16.png","shortcode":":c"},{"name":"Winking","src":"/images/emoticons/17.png","shortcode":";)"},{"name":"Loopy","src":"/images/emoticons/20.png","shortcode":"8P"},{"name":"ThumbsUp","src":"/images/emoticons/23.png","shortcode":":+1:"},{"name":"ThumbsDown","src":"/images/emoticons/24.png","shortcode":":-1:"},{"name":"SickTired","src":"/images/emoticons/25.png","shortcode":":sicktired:"},{"name":"Medicating","src":"/images/emoticons/26.png","shortcode":":meditating:"},{"name":"Hug","src":"/images/emoticons/27.png","shortcode":":hug:"},{"name":"Heart","src":"/images/emoticons/28.png","shortcode":":heart:"}]
+      }).render();
+    });
+  </script>
+  <div class="ads">
+   <script type="text/javascript">
+    adSlots.push({
+                adDivId: "gpt-ad-wsl",
+                adPosName: "wsl",
+                generalSize: [[160, 600]],
+                sizeMapping: [
+                {
+                  viewPort: [320, 200],
+                  adSizes: [],
+                },
+                {
+                  viewPort: [768, 200],
+                  adSizes: [[160, 600]],
+                }]
+              });
+   </script>
+   <script type="text/javascript">
+    adSlots.push({
+        adDivId: "gpt-ad-dlb1",
+        adPosName: "dlb1",
+        generalSize: [[768, 90], [728, 90]],
+        sizeMapping: [
+        {
+          viewPort: [320, 200],
+          adSizes: [],
+        },
+        {
+          viewPort: [768, 200],
+          adSizes: [[768, 90], [728, 90]],
+        }]
+      });
+   </script>
+   <script type="text/javascript">
+    adSlots.push({
+          adDivId: "gpt-ad-mmr1",
+          adPosName: "mmr1",
+          generalSize: [[300, 250]],
+          sizeMapping: [
+          {
+            viewPort: [320, 200],
+            adSizes: [[300, 250]],
+          },
+          {
+            viewPort: [768, 200],
+            adSizes: [],
+          }]
+        });
+   </script>
+  </div>
+  <script type="text/javascript">
+   var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 61025;
+    _sf_async_config.domain = 'community.breastcancer.org';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'Community';
+    _sf_async_config.authors = 'Community';
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function() {
+        mapAdUnits();
+        googletag.cmd.push(function () {
+          googletag.pubads().refresh(window.hlAdSlots);
+        });
+      });
+  </script>
+ </body>
+</html>
+
