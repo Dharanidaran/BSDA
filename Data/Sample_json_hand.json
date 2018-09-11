@@ -1,0 +1,31 @@
+// PostDbId - Ignored
+// DbId
+// ParentDbId
+// Fbid
+// CreatedDate
+// ActorId
+// ActorName
+// ActionType
+// PostType
+// LikeCount
+// ShareCount
+// TextValue
+
+
+// Create a json file by Hand
+
+
+// Two main component
+// 1) Object
+// 2) List or Array
+
+
+{
+	"PostDbId":[ 138633, 138633, 138633, 138633, 138633, 38633, 138633, 138633],
+	"DbId":[138633,3645688,3645701,3645498,3645691,3645708,3645710,1346973],
+	"ActorName":["Ryanair","Iris Keelan","Kirsti Lejeune","Jamie Danjoux","Sarah Rogan-Baica","Kerry Brown","Isabel Zambudio Espinosa","Kath Levey"],
+	"ActionType":["POST","COMMENT","COMMENT","COMMENT","COMMENT","COMMENT","COMMENT","COMMENTREPLY"],
+	"LikeCount" : [304,0,0,0,0,0,0,0],
+	"TextValue" :["Ryanair grows by 25% at Manchester Airport with 6 new routes to Bratislava  Bremen  Brindisi  Carcassonne  Limoges and Malta - See more at: ht.ly/TWmbi","Still waiting for flights dinan to manchester please can't wait folks!!! Xx","Whatabout HELSINKI...?????","You Manchester people should be lucky. We only have 3 Ryanair routes from Newcastle and 2 of those routes are already being served by 3 different airlines already.","Any chance of flights to Transylvania  Romania?","How do we book flights for us 3 and unborn baby no2 (before the offer ends) when we don't know if we are being blessed with a he or she!!!???","Porqu√©  han retirado la ruta Madrid -Verona?","Couldn't agree more. Need Newcastle to Limoges. Please!!"]
+	
+}
